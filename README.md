@@ -1,3 +1,3 @@
 # zmk-config-cheakee2
 
-![Current Keymap](./keymap/cheakee.svg)
+![Current Keymap](./.keymap/cheakee.svg)
