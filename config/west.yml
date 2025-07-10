@@ -17,5 +17,8 @@ manifest:
     - name: zmk-pmw3610-driver
       remote: tomori-k
       revision: feature/smoothing
+    - name: zmk-behavior-soft-off-local
+      remote: tomori-k
+      revision: main
   self:
     path: config
